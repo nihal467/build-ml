@@ -1,1 +1,1 @@
-# Chakka Managa Thenga
+# Chakka Manga Thenga
