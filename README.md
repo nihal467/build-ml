@@ -18,12 +18,12 @@ BFH/recouEVNeGnow1eUC/2021
 
 ## How it Works ?
 
-Step 1 : 
-Step 2 :
-Step 3 :
-Step 4 :
-Step 5 :
-Step 6 :
+1. Step 1 : 
+2. Step 2 :
+3. Step 3 :
+4. Step 4 :
+5. Step 5 :
+6. Step 6 :
 
 ## Libraries used
 
