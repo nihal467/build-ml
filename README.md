@@ -4,7 +4,7 @@ Chakka Manga classifier is a Machine Learning related project, where the classif
 
 ## Team members
 
-1. Gokul Balachandran [Embed personal github URL]
+1. Gokul Balachandran [https://github.com/gokulkpb]
 2. Mohammed Nihal [Embed perosnal github URL]
 3. Shamila 
 
