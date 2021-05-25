@@ -21,8 +21,8 @@ BFH/recouEVNeGnow1eUC/2021
 1. Step 1 : Options are available for providing url and uploading from the local machine. User may choose any one from them.
 2. Step 2 : After Pasting the url or choosing the image and click the submit button provided below.
 3. Step 3 : You will be redirected to a page where results are shown with the image provided.
-            If the classifier identifies it as a Mango it will display "I think its a Manga",
-            If the classifier identifies it as a Jackfruit it will display "I think its a Chakka"
+            - If the classifier identifies it as a Mango it will display "I think its a Manga",
+            - If the classifier identifies it as a Jackfruit it will display "I think its a Chakka"
 4. Step 4 : You can click Go back button and repeat the process to see how the model performs for other images.
 
 ## Libraries used
