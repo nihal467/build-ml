@@ -35,9 +35,9 @@ BFH/recouEVNeGnow1eUC/2021
 ## How to configure
 
 - Download the whole project and keep it in a folder. 
-- Install the libraries defined above(I use anaconda so the command is "conda install <package-name>"). 
+- Install the libraries defined above(I use anaconda so the command is "conda install package-name"). 
 - Navigate to the newly made folder using cmd. 
-- Activate the tensorflow environment (Iam using Anaconda so the command is like "conda activate <name-of-environment>"). 
+- Activate the tensorflow environment (Iam using Anaconda so the command is like "conda activate name-of-environment"). 
 
 ## How to Run
 After activating the tensorflow environment excecute the following command in the cmd.
