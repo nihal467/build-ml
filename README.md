@@ -27,9 +27,9 @@ BFH/recouEVNeGnow1eUC/2021
 
 ## Libraries used
 
-Tensorflow - 2.4.1
-Numpy      - 1.19.2
-Flask      - 1.1.2
+- Tensorflow - 2.4.1
+- Numpy      - 1.19.2
+- Flask      - 1.1.2
 
 
 ## How to configure
@@ -44,5 +44,3 @@ After activating the tensorflow environment excecute the following command in th
   - set FLASK_ENV=development
   - flask run
   
-
-Instructions for running
