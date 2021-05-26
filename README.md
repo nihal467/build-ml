@@ -1,3 +1,5 @@
+![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
+
 # Chakka Manga Classifier
 
 Chakka Manga classifier is a Machine Learning related project, where the classifier will tell the inputted data is mango or a jackfruit. It is basically an awesome project to classify fruits.
