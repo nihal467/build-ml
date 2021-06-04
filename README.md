@@ -14,10 +14,6 @@ Chakka Manga classifier is a Machine Learning related project, where the classif
 
 BFH/recouEVNeGnow1eUC/2021
 
-## Link to product walkthrough
-
-- https://www.loom.com/share/a730895c1db54d9e9bcbdd6c70ceb1e1
-
 ## How it Works ?
 
 1. Step 1 : Options are available for providing url and uploading from the local machine. User may choose any one from them.
